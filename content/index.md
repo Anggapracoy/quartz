@@ -23,36 +23,16 @@ Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sin
 ## Peta Kebun
 
 > [!Training]-   🥋 Jiujitsu dan Segala macam nya
-> 
-> ```dataview
-> LIST
-> FROM #bjjgarden
-> SORT file.mtime desc
-> ```
 
 > [!command]-  🧠 Second Brain,PKM,Note-Taking
 > 
-> ```dataview
-> LIST
-> FROM #pkmgarden
-> SORT file.mtime desc
-> ```
 
 > [!note]-  🎵 Sinyal & Noise
 > 
-> ```dataview
-> LIST
-> FROM #noisegarden
-> SORT file.mtime desc
-> ```
+> 
 
 > [!calendar]-  🗒️ Hal Apapun
-> 
-> ```dataview
-> LIST
-> FROM #halgarden
-> SORT file.mtime desc
-> ```
+
 
 ---
 
