@@ -27,7 +27,7 @@ Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sin
 > - [[Concepts dan Goals dalam CLA]]
 
 > [!command]-  🧠 Second Brain,PKM,Note-Taking
-> 
+> - [[Kenapa Aku Akhirnya Serius Soal PKM]] 
 
 > [!note]-  🎵 Sinyal & Noise
 > 
