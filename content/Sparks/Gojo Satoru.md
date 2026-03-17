@@ -37,8 +37,6 @@ Ia juga mahir dalam [[Reverse Cursed Technique]] untuk menyembuhkan diri sendiri
 - **Voice Actor**: Yuichi Nakamura (Jepang), Kaiji Tang (Inggris).
 - **Fakta Menarik**: Gojo sering digambarkan dengan penutup mata hitam, dan ia suka makanan manis seperti mochi.
 
-## Tag
-#JujutsuKaisen #GojoSatoru #Anime #Manga #KarakterFiksi
 
 ## Link Terkait
 - [[Jujutsu Kaisen]] (jika Anda punya note tentang seri ini)
