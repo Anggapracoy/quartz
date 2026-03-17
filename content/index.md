@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: ✧ Command Center
 ---
 ## ✧ Command Center
 
