@@ -1,5 +1,5 @@
 
-
+![[kratos.jpeg|578]]
 
 > "Balas dendam bukan jalan menuju kedamaian, tapi kadang itu adalah satu-satunya jalan yang tersisa." — _Parafase Filosofi Kratos._
 
