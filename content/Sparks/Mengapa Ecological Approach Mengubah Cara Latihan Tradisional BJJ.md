@@ -1,4 +1,4 @@
-![[ChatGPT Image Feb 18, 2026 at 06_39_48 PM.png]]
+![[bjj1.png]]
 Beberapa tahun lalu, jujur saja, saya tidak pernah dengar istilah ecological approach di BJJ.
 Yang ramai dibahas waktu itu ya teknik baru, sistem guard terbaru, detail passing yang lebih presisi. Kalau kamu aktif di komunitas, pasti tahu polanya. Setiap periode ada tren. Leg lock. Berimbolo. System ini. System itu.
 
@@ -143,6 +143,7 @@ Tapi ia membuat kita berhenti sejenak dan berpikir ulang tentang proses.
 Dan kadang, perubahan terbesar bukan datang dari teknik baru.
 
 Tapi dari cara kita memahami belajar itu sendiri.
-#bjjgarden 
+
+Tags  : #bjjgarden 
 
 Back to : [[index|Command Center]]

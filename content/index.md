@@ -23,6 +23,8 @@ Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sin
 ## Peta Kebun
 
 > [!Training]-   🥋 Jiujitsu dan Segala macam nya
+> - [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
+> - [[Concepts dan Goals dalam CLA]]
 
 > [!command]-  🧠 Second Brain,PKM,Note-Taking
 > 

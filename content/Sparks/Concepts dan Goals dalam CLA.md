@@ -1,5 +1,5 @@
-![Gemini_Generated_Image_ox10c8ox10c8ox10.png](app://a2d503e58f0f1f539c5d1dfdc55b1dbe74c9/Users/macpro/Documents/1.PROJECTS/Neokortex%E2%9C%B1%20/07%20x/Attachment/Gemini_Generated_Image_ox10c8ox10c8ox10.png?1771562849783)
 
+![[bjj.png|500]]
 Kalau kita melihat BJJ lewat kacamata Constraints Led Approach, ada satu hal yang langsung terasa jelas.
 
 Arahnya.
