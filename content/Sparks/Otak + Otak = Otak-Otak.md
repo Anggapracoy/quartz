@@ -17,7 +17,7 @@ Aku dulu percaya kalau orang yang otaknya bagus itu orang yang ingatannya kuat. 
 
 Ternyata framing itu salah total.
 
-Otak manusia dirancang buat _berpikir_, menganalisis, menghubungkan ide, memecahkan masalah — itu zona nyamannya. Otak kita memang tidak dirancang untuk menyimpan. Makanya kita lupa hal-hal kecil yang "kayaknya penting tapi nanti aja deh." Bukan karena kita kurang usaha, tapi kita selama ini minta otak kerja di luar kapasitas yang dia punya.
+Otak manusia dirancang buat _berpikir_, menganalisis, menghubungkan ide, memecahkan masalah — itu zona nyamannya. Otak kita memang tidak dirancang untuk menyimpan. Makanya kita lupa hal-hal kecil yang "kayaknya penting tapi nanti aja deh." Selama ini kita minta otak kerja di luar kapasitas yang dia punya — wajar aja kalau hasilnya kacau 😅
 
 Second brain adalah jawabannya.
 
@@ -71,7 +71,7 @@ Mulai dari satu hal: setiap kali ada informasi yang anda tahu bakal dibutuhkan l
 
 Otak anda akan berterima kasih. Dan semoga anda nggak dimarahin orang rumah lagi.
 
-Next nya aku mau bahas menggunakan aplikasi apa dan mengapa ya coy 😉
+Lain cerita soal pilihan tools-nya — kenapa akhirnya aku settle di Obsidian dan Tana setelah nyobain hampir semuanya, itu cerita yang lebih panjang.
 
 ---
 Tags : #pkm 
