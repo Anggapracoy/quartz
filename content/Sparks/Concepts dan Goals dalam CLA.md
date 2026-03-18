@@ -130,7 +130,7 @@ Ia adalah sistem dinamis dengan goal yang tidak pernah berubah.
 Dan mungkin yang perlu kita perjelas bukan variasi teknik kita.
 
 Tapi cara kita memahami arah permainan itu sendiri.
- Tags : #bjjgarden 
+ Tags : #grplng 
 
 Related :
 

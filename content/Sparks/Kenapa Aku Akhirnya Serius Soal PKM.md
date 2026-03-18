@@ -55,6 +55,6 @@ Karena tidak ada versi finalnya. Sistemnya selalu bisa berkembang seiring cara h
 Mungkin itu juga kenapa ini relevan buat siapa saja yang hidupnya penuh informasi tapi sedikit waktu untuk memprosesnya.
 
 ---
-
+Tags : #pkm 
 Related :
 [[index|CC]]

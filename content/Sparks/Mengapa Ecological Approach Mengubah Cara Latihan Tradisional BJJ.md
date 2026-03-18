@@ -144,6 +144,13 @@ Dan kadang, perubahan terbesar bukan datang dari teknik baru.
 
 Tapi dari cara kita memahami belajar itu sendiri.
 
-Tags  : #bjjgarden 
+Tags  : #grplng 
+
+Related :
+- [[Systematic Approach dan John Danaher]]
+- [[Concepts dan Goals dalam CLA]]
+
+
+
 
 Back to : [[index|Command Center]]

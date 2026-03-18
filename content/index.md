@@ -29,6 +29,7 @@ Kalau kisanak nyaman dengan ketidaksempurnaan — selamat datang, kisanak cocok 
 > [!command]-  🧠 Second Brain,PKM,Note-Taking
 > - [[Kenapa Aku Akhirnya Serius Soal PKM]] 
 > - [[Digital Garden itu apaan woy !]]
+> - [[Otak + Otak = Otak-Otak]]
 
 > [!note]-  🎵 Sinyal & Noise
 > 
