@@ -1,4 +1,7 @@
-Sebelum istilah ecological approach ramai dibicarakan, sebelum orang orang mulai mendiskusikan constraint based games dan motor learning, sebenarnya dunia Jiu Jitsu sudah lebih dulu diguncang oleh satu pendekatan yang sangat berbeda.
+![[ChatGPT Image Feb 21, 2026 at 02_58_08 PM.png]]
+
+---
+Sebelum istilah ecological approach ramai dibicarakan, sebelum orang orang mulai mendiskusikan constraint based games dan motor learning, sebenarnya dunia JiuJitsu sudah lebih dulu diguncang oleh satu pendekatan yang sangat berbeda.
 
 Namanya [[John Danaher]].
 

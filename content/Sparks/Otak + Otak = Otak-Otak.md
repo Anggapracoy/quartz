@@ -1,4 +1,6 @@
 ![[ChatGPT Image Mar 18, 2026 at 01_07_09 PM.png|350]]
+
+---
 **Otakmu Bukan Gudang, Berhenti Perlakukan Dia Seperti Itu**
 
 Beberapa tahun lalu token listrik rumah habis. Mati semua. Aku panik, langsung cari nomor meteran buat beli token — dan nggak ketemu. Cari di WhatsApp, nggak ada. Cari di notes HP, nggak ada. Cari di email, nggak ada juga. Akhirnya nge-bongkar laci, nemu struk lama yang udah lecek, dan dapat nomornya di sana.
