@@ -10,19 +10,19 @@ title: ✧ Command Center
 
 Bapak satu anak. Hobi gulat lantai sama ngulik aplikasi notes — dua hal yang sama-sama bikin istri geleng-geleng kepala.
 
-Di siang hari saya kerja. Di malam hari saya buka Obsidian, nulis hal-hal yang belum tentu berguna, dan merasa sangat produktif karenanya.
+Di pagi sampai sore kerja. Di malam hari saya buka Obsidian, nulis hal-hal yang belum tentu berguna,belajar dan latihan grappling dan merasa sangat produktif karenanya. 🤔
 
 Kebun digital ini bukan blog. Tidak ada tulisan yang benar-benar selesai di sini. Yang ada adalah pikiran yang sedang tumbuh, koneksi antar ide yang saya temukan menarik, dan opini yang mungkin berubah bulan depan.
 
-Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sini.
+Kalau kisanak nyaman dengan ketidaksempurnaan — selamat datang, kisanak cocok di sini.
 
-> [!quote] _"Tidak ada hal yang terlalu kecil untuk dicatat. Karena kadang, hal kecil hari ini jadi pijakan besar besok."_
+> [!quote] _"Pak, mau nanya jalan martadimana dinata ya pak ?."_
 
 ---
 
 ## Peta Kebun
 
-> [!Training]-   🥋 Jiujitsu dan Segala macam nya
+> [!Training]-   🥋 Grappling dan Segala macam nya
 > - [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
 > - [[Concepts dan Goals dalam CLA]]
 
@@ -34,6 +34,8 @@ Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sin
 > 
 
 > [!calendar]-  🗒️ Hal Apapun
+> - [[Gojo Satoru]]
+> - [[Kratos = God of War]]
 
 
 ---
@@ -45,6 +47,7 @@ Kalau kamu nyaman dengan ketidaksempurnaan — selamat datang, kamu cocok di sin
 > 1. [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
 > 2. [[Kenapa Aku Akhirnya Serius Soal PKM]]
 > 3. [[Concepts dan Goals dalam CLA]]
+> 4. [[Gojo Satoru]]
 
 ---
 
