@@ -2,7 +2,7 @@
 title: ✧ Command Center
 ---
 ## ✧ Welcome to my Digital Garden 
-![[Gemini_Generated_Image_y64zb4y64zb4y64z.png|350]]
+![[Gemini_Generated_Image_y64zb4y64zb4y64z.png|1200]]
 
 # Hei, saya Anggapracoy 👋
 
