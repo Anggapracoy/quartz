@@ -1,7 +1,7 @@
 ---
 title: ✧ Command Center
 ---
-## ✧ Command Center
+## ✧ Welcome to my Digital Garden 
 
 
 ![[my-notion-face-portrait.png|500]]
