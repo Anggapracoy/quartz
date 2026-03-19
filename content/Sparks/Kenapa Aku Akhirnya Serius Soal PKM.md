@@ -1,5 +1,6 @@
 ![[pkmperson.png]]
 
+---
 
 Aku pelupa.
 

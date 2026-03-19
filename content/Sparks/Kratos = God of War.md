@@ -114,3 +114,4 @@ Tapi soal bagaimana dia tetap jalan, walaupun bawa banyak hal di belakangnya.
 
 Dan mungkin, itu yang bikin dia terasa dekat.
 
+Tags : #things 

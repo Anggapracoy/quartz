@@ -22,22 +22,21 @@ Kalau kisanak nyaman dengan ketidaksempurnaan — selamat datang, kisanak cocok 
 
 ## Peta Kebun
 
-> [!Training]-   🥋 Grappling dan Segala macam nya
-> - [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
-> - [[Concepts dan Goals dalam CLA]]
+> "Klik Hastag untuk lihat apa yang menarik"
+
+> [!Training]-  🥋 Grappling dan Segala macam nya
+> - #grplng 
 
 > [!command]-  🧠 Second Brain,PKM,Note-Taking
-> - [[Kenapa Aku Akhirnya Serius Soal PKM]] 
-> - [[Digital Garden itu apaan woy !]]
-> - [[Otak + Otak = Otak-Otak]]
+> - #pkm 
 
 > [!note]-  🎵 Sinyal & Noise
-> 
+> -  #noise
+> - #sinema
 > 
 
 > [!calendar]-  🗒️ Hal Apapun
-> - [[Gojo Satoru]]
-> - [[Kratos = God of War]]
+> - #things
 
 
 ---
@@ -47,8 +46,8 @@ Kalau kisanak nyaman dengan ketidaksempurnaan — selamat datang, kisanak cocok 
 > [!tip] Baru pertama mampir?
 > 
 > 1. [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
-> 2. [[Kenapa Aku Akhirnya Serius Soal PKM]]
-> 3. [[Concepts dan Goals dalam CLA]]
+> 2. [[Digital Garden itu apaan woy !]]
+> 3. [[Otak + Otak = Otak-Otak]]
 > 4. [[Gojo Satoru]]
 
 ---

@@ -1,7 +1,7 @@
 ![[ChatGPT Image Mar 18, 2026 at 01_07_09 PM.png|350]]
 
 ---
-**Otakmu Bukan Gudang, Berhenti Perlakukan Dia Seperti Itu**
+**Sadar kalo andalin otak aja gak cukup**
 
 Beberapa tahun lalu token listrik rumah habis. Mati semua. Aku panik, langsung cari nomor meteran buat beli token — dan nggak ketemu. Cari di WhatsApp, nggak ada. Cari di notes HP, nggak ada. Cari di email, nggak ada juga. Akhirnya nge-bongkar laci, nemu struk lama yang udah lecek, dan dapat nomornya di sana.
 
@@ -33,7 +33,7 @@ Otak anda jadi lebih ringan. Pikiran lebih tenang. Dan yang paling penting — a
 
 ---
 
-**Perjalanan Panjang yang Nggak Perlu Anda Ulangi**
+**Apaan aja nih yang di test**
 
 Sebelum sampai di sini, aku udah nyobain hampir semua app yang mungkin pernah anda dengar. Google Docs, Notion, Logseq, Craft, AmplenNote, Todoist, Twos — semua pernah aku coba dengan penuh harapan, dan semua akhirnya aku tinggalin.
 
@@ -55,7 +55,7 @@ Setelah paham ini, aku berhenti app-hopping. Sekarang aku pakai Obsidian untuk c
 
 ---
 
-**Yang Berubah**
+**Terus ada yang berubah gak ?
 
 Aku masih pelupa. Itu nggak berubah hehhe.
 
@@ -65,7 +65,7 @@ Paniknya berkurang drastis. Aku masih orangnya sama, cuma otakku sekarang nggak 
 
 ---
 
-**Kalau Anda Juga Sering Panik Soal Hal Kecil**
+**Supaya gak panik mendadak**
 
 Anda nggak perlu setup yang sempurna. Nggak perlu baca semua buku PKM atau nonton 40 video Notion tutorial dulu.
 

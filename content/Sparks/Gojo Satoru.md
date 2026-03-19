@@ -38,9 +38,7 @@ Ia juga mahir dalam [[Reverse Cursed Technique]] untuk menyembuhkan diri sendiri
 - **Fakta Menarik**: Gojo sering digambarkan dengan penutup mata hitam, dan ia suka makanan manis seperti mochi.
 
 
-## Link Terkait
-- [[Jujutsu Kaisen]] (jika Anda punya note tentang seri ini)
-- [[Penyihir Jujutsu]] (untuk kategori karakter serupa)
+Tags : #things 
 
 ---
 

@@ -1,6 +1,6 @@
 
 ![[Exploring the digital garden of ideas 1.png]]
-Kalau aku jelasin ke kau dengan jujur, digital gardening itu tempat aku nulis tanpa harus mikir ini bagus atau enggak.
+Kalau aku jelasin ke anda dengan jujur, digital gardening itu tempat aku nulis tanpa harus mikir ini bagus atau enggak.
 
 Bukan blog yang harus rapi.
 Bukan juga konten yang harus kelihatan pinter.
@@ -9,7 +9,7 @@ Ini lebih kayak halaman liar.
 Aku bisa nulis apa saja yang lagi kepikiran.
 
 Hari ini aku bahas Jiu Jitsu.
-Besok bisa tiba tiba bahas Kratos.
+Besok bisa tiba tiba bahas Kratos,Second Brain,Heavy Rotation di Spotify.
 Lusa mungkin aku nulis hal random yang bahkan aku sendiri belum ngerti arahnya ke mana.
 
 Dan anehnya, itu justru poinnya.
@@ -36,7 +36,7 @@ Nggak ada tuntutan harus keren.
 Nggak ada beban harus disukai.
 
 Aku nulis.
-Kau mampir.
+anda mampir.
 
 Udah, segitu aja. 😄
 
