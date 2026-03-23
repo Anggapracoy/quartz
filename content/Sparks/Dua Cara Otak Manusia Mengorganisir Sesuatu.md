@@ -61,3 +61,5 @@ Bottom up cocok kalau anda suka eksplorasi, sering nulis hal-hal yang belum jela
 Aku udah nyobain keduanya. Dan buat gaya berpikir aku yang suka loncat-loncat antar topik, bottom up jauh lebih masuk akal.
 
 Sistemnya nggak perlu sempurna dari hari pertama. Yang penting dia tumbuh bareng anda.
+
+tag : #pkm 
