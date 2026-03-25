@@ -46,4 +46,4 @@ One Piece bertahan selama ini karena Oda nulis karakter yang terasa nyata — mi
 
 Di suatu titik, anda nggak cuma baca tentang Luffy yang mengejar One Piece. Anda juga sedang mengejar sesuatu. Dan entah kenapa, rasanya lebih mudah kalau ada nakama yang ikut berlayar bersama
 
-tag : #pkm #things 
+tag : #sinema  #things 
