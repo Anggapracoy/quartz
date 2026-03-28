@@ -46,7 +46,7 @@ Kalau kisanak nyaman dengan ketidaksempurnaan — selamat datang, kisanak cocok 
 > 1. [[Mengapa Ecological Approach Mengubah Cara Latihan Tradisional BJJ]]
 > 2. [[Digital Garden itu apaan woy !]]
 > 3. [[Otak + Otak = Otak-Otak]]
-> 4. [[Gojo Satoru]]
+> 4. [[One Piece,Skill Usopp dan Ongoing Chapters]]
 
 ---
 
